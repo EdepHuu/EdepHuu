@@ -55,4 +55,5 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+    ![snake gif](https://github.com/EdepHuu/EdepHuu/blob/output/github-contribution-grid-snake.gif)
 </div>

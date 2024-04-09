@@ -15,7 +15,7 @@
 <p>
     
 </p>
-- 🌱 I’m currently learning **ASP.NET C# and Machine Learning.**
+- 🌱 I’m currently learning **ASP.NET C#**
 </div>
 <p>
     

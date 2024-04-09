@@ -12,6 +12,9 @@
 
 <div align="center">
 - 📫 How to reach me **metehanndundar@hotmail.com**
+<p>
+    
+</p>
 - 🌱 I’m currently learning **ASP.NET C# and Machine Learning.**
 </div>
 

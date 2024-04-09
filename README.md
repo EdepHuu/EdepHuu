@@ -43,13 +43,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  ![snake gif](https://github.com/edephuu/edephuu/blob/output/github-contribution-grid-snake.gif)
-  <br/><br/><br/>
-</div>
-
 <p>
   
 </p>
@@ -59,3 +52,10 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edephuu&theme=tokyonight&hide_border=true&layout=compact"/>
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=edephuu&include_all_commits=true&hide_border=true&theme=tokyonight"/>
 </p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  ![snake gif](https://github.com/EdepHuu/EdepHuu/blob/output/github-contribution-grid-snake.gif)
+  <br/><br/><br/>
+</div>

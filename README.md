@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://y.yarn.co/04fa23b4-5567-47da-b30b-8ac529d45d19_text.gif" width="350"/>
 </div>
-<h3 align="center">A passionate Full Stack Developer from Turkiye</h3>
+<h3 align="center">A passionate Jr. Backend Developer from Turkiye</h3>
 
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=edephuu&label=Profile%20views&color=0e75b6&style=flat" alt="edephuu" /> </p>

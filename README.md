@@ -42,8 +42,8 @@
 
 <h2 align="center">⚙️ Kullandığım Teknolojiler ⚙️</h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,mysql" /><br><br>
-<img src="https://skillicons.dev/icons?i=javascript,java,python,git,postman,firebase" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,postman,git,mysql,firebase" /><br><br>
+<img src="https://skillicons.dev/icons?i=javascript,java,python,bootstrap,html,css" />
 </div>
 
 ---

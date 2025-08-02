@@ -17,7 +17,7 @@
 ### 🧑‍💻 Hakkımda
 
 - 🎓 2025 yılında Sakarya Üniversitesi Bilgisayar Mühendisliği bölümünden mezun oldum.  
-- 💻 Yazılım geliştiriyorum, özellikle C# ve .NET Core ile ilgileniyorum.  
+- 💻 Yazılım geliştiricisiyim, özellikle C# ve .NET Core ile ilgileniyorum.  
 - 🧩 Gerçek dünya problemlerini çözmeyi ve backend tarafında sağlam mimariler kurmayı seviyorum.  
 - 🚀 Geliştirdiğimiz [Alinirmiapp.com](https://alinirmiapp.com) projesinde aktif rol aldım.  
 - 🌍 Bursa’da yaşıyorum, uzaktan çalışmaya uygun ve motive bir şekilde öğrenmeye devam ediyorum.
